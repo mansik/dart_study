@@ -1,3 +1,6 @@
+/// Collections type: List, Set, Map
+///
+/// Set
 void main() {
   // Set(): 중복 제거
   Set<String> blackPink = { '로제', '지수', '리사', '제니', '제니'};

@@ -1,4 +1,5 @@
 /// inheritance(상속), extends
+///
 /// inheritance는 한개의 클래스만 가능
 class Idol {
   // 생성자에서 입력받는 변수들은 일반적으로 final 키워드 사용

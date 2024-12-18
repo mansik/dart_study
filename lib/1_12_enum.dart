@@ -1,3 +1,4 @@
+/// enum
 enum Status {
   approved,
   pending,

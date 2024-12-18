@@ -1,3 +1,6 @@
+/// Collections type: List, Set, Map
+///
+/// Map
 void main() {
   Map<String, String> dictionary = {
     'Herry Potter': '헤리 포터',

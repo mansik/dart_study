@@ -1,3 +1,6 @@
+/// Collections type: List, Set, Map
+///
+/// List
 void main() {
   List<String> blackPinkList = ['리사', '지수', '제니', '로제'];
 

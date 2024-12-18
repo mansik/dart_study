@@ -1,3 +1,4 @@
+/// variable
 void main() {
   // 변수 타입
   String name = 'cat';

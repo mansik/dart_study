@@ -1,3 +1,4 @@
+/// class
 class Idol {
   String name = 'blackPink';
 

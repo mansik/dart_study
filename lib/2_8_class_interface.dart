@@ -1,4 +1,5 @@
-/// interface, implements
+/// interface, implements(재정의, 구현)
+///
 /// inheritance는 공유되는 기능을 이어받는 개념, 한개만 가능
 /// interface는 공통으로 필요한 기능을 정의만 해두는 역할, 여러개 가능
 ///

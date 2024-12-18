@@ -1,3 +1,4 @@
+/// records
 void main() {
   // record type 1
   var record = ('first', a: 2, b: true, 'last');

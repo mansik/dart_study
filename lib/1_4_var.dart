@@ -1,3 +1,4 @@
+/// var
 void main() {
   // var: 자동타입 추론, 데이터형이 정해지고 나면 다른 데이터형을 할당 할 수 없음
   var name = 'cat';
@@ -16,6 +17,10 @@ void main() {
   // 다음은 에러 발생
   // var name ='vvv';
 
+
+  // list
+  var animals = ['cat', 'dog', 'rabbit'];
+  print(animals[0]);
 
   // Object
   Object object = 'Bob';

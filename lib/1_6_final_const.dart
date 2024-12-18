@@ -1,3 +1,4 @@
+/// final, const
 void main() {
   // final: 런타임 상수, const: 빌드 타임 상수
   final String name = 'black pink';

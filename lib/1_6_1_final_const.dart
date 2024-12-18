@@ -1,3 +1,4 @@
+/// final, const
 void main() {
   // now()는 final 키워드를 사용해야 한다.
   final DateTime now = DateTime.now();
